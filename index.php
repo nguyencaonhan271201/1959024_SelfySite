@@ -62,17 +62,17 @@
           <div class="contact">
             <h1>Contact me</h1>
             <div class="row-3-contact row">
-                <div class="col-3-contact col-sm-12">
+                <div class="col-3-contact">
                     <a href="https://www.facebook.com/nguyencaonhan2712">
                         <img class="contact-img" src="images/fb.png" alt="">
                     </a>
                 </div>
-                <div class="col-3-contact col-sm-12">
+                <div class="col-3-contact">
                     <a href="https://github.com/nguyencaonhan271201">
                         <img class="contact-img" src="images/ghb.png" alt="">
                     </a>
                 </div>
-                <div class="col-3-contact col-sm-12">
+                <div class="col-3-contact">
                     <a href="mailto:1959024@itec.hcmus.edu.vn">
                         <img class="contact-img" src="images/gm.png" alt="">
                     </a>

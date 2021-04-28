@@ -13,21 +13,21 @@
             <div class="about">
                 <h2>About me</h2>
                 <div class="row-1-2 row container-fluid">
-                  <div class="about-col-1 col-md-4 col-sm-12">
+                  <div class="about-col-1 col-lg-4 col-md-6 col-sm-12">
                     <img src="images/profile2.jpg" alt="">
                   </div>
-                  <div class="about-col-2 col-md-8 col-sm-12">
+                  <div class="about-col-2 col-lg-8 col-md-6 col-sm-12">
                     <p>My name is Nguyễn Cao Nhân. I'm a second year university student, majoring in Information Technology at University
                         of Science - Vietnam National University of Ho Chi Minh City.
                     </p>
                   </div>
                 </div>
                 <div class="row-2-1 row container-fluid">
-                    <div class="about-col-2 col-md-8 col-sm-12">
+                    <div class="about-col-2 col-lg-8 col-md-6 col-sm-12">
                       <p>I'm currently living in District 3, located right at the center of Ho Chi Minh City, Vietnam.
                       </p>
                     </div>
-                    <div class="about-col-1 col-md-4 col-sm-12">
+                    <div class="about-col-1 col-lg-4 col-md-6 col-sm-12">
                         <img src="images/sg.jpg" alt="">
                     </div>
                 </div>

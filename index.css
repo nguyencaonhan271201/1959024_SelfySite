@@ -36,10 +36,12 @@ header {
     background: #49a09d;
     height: 100px;
     position: fixed;
+    top: 0;
     width: 100%;
     overflow: hidden;
     box-shadow: 0 1.5px 1.5px black;
     z-index: 1;
+    transition: top 500ms;
 }
 
 header > * {
@@ -691,6 +693,7 @@ button:hover {
 
 .col-md-4.col-sm-12 button {
     width: 100%;
+	cursor: pointer;
 }
 
 .row-3 {
@@ -788,7 +791,11 @@ footer {
         height: auto !important;
     }
 
-    .about .row-2-1, .about .row-1-2, .gallery-row, .gallery-row-2 {
+    .gallery-row {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .gallery-row-2 {
         display: block;
     }
 
@@ -877,6 +884,10 @@ footer {
 
     .resume-col-3 p {
         font-size: 20px !important;
+    }
+
+    .gallery-row {
+        display: block;
     }
 }
 
